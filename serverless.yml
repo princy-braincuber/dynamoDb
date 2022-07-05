@@ -25,4 +25,3 @@ functions:
       # `rate(value unit)` e.g. rate(1 day) or rate(2 days) for plural
     environment:
       DYNAMODB_TABLE_NAME: important-data
-s
